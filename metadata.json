@@ -1,0 +1,6 @@
+{
+  "name": "TrustGuard AI - Responsible AI & Digital Trust Workbench",
+  "description": "Enterprise AI fairness, harm evaluation, and model governance workbench for banking and risk systems.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
